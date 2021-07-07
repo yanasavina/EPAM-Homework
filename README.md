@@ -8,9 +8,9 @@ Here are my homeworks for the EPAM Software Functional Testing Program.
 **Links**
 
 
--  [Homework Test Case](https://formulae.brew.sh/formula/openssl@1.1) - Test case was created for a real site in accordance with the specified requirements
--  [Homework Check List](https://formulae.brew.sh/formula/openssl@1.1) - Prepared Checklist for visualization of checks during testing
--  [Homework Bug Report](https://formulae.brew.sh/formula/openssl@1.1) - Based on a real bug from the web page, a bug report was created for a given template
+-  [Homework Test Case](https://github.com/yanasavina/EPAM-Homework/blob/main/Homeworks/Yana_Savina_Homework_TestCase.xlsx) - Test case was created for a real site in accordance with the specified requirements
+-  [Homework Check List](https://github.com/yanasavina/EPAM-Homework/blob/main/Homeworks/Yana_Savina_Homework_Checklist.docx) - Prepared Checklist for visualization of checks during testing
+-  [Homework Bug Report](https://github.com/yanasavina/EPAM-Homework/blob/main/Homeworks/Yana_Savina_BugReport.xlsx) - Based on a real bug from the web page, a bug report was created for a given template
 
 
 ## Contacts
